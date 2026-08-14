@@ -1,0 +1,729 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Velora Motors | Luxury & Performance</title>
+
+    <meta name="description"
+          content="Velora Motors — Engineering Excellence, Delivered. Explore our curated collection of luxury and performance vehicles.">
+
+    <meta name="keywords"
+          content="Velora Motors, luxury cars, performance cars, Ferrari, Lamborghini, Rolls-Royce, Bentley, Aston Martin">
+
+</head>
+
+<body>
+
+    <!-- *********************************************************************
+         HEADER / NAVIGATION
+         ********************************************************************** -->
+
+    <header>
+
+        <h1>VELORA MOTORS</h1>
+
+        <p><strong>Engineering Excellence, Delivered</strong></p>
+
+        <nav aria-label="Main Navigation">
+
+            <a href="#home">Home</a> |
+            <a href="#showroom">Showroom</a> |
+            <a href="#about">About</a> |
+            <a href="#heritage">Brand Heritage</a> |
+            <a href="#ownership">Ownership & Financing</a> |
+            <a href="#contact">Contact</a>
+
+        </nav>
+
+        <hr>
+
+    </header>
+
+
+    <!-- **************************************************************************************
+         HOMEPAGE / HERO
+         ************************************************************************************** -->
+
+    <main>
+
+        <section id="home">
+
+            <h2>Welcome to Velora Motors</h2>
+
+            <h3>Engineering Excellence, Delivered</h3>
+
+            <p>
+                Discover a curated collection of the world's finest
+                luxury and performance automobiles.
+            </p>
+
+            <p>
+                Velora Motors connects discerning collectors,
+                enthusiasts, first-time luxury buyers and automotive
+                researchers with exceptional vehicles.
+            </p>
+
+            <p>
+                <a href="#showroom">EXPLORE THE COLLECTION</a>
+            </p>
+
+            <hr>
+
+        </section>
+
+
+        <!-- *****************************************************************************
+             SHOWROOM
+             ***************************************************************************** -->
+
+        <section id="showroom">
+
+            <h2>Our Showroom</h2>
+
+            <p>
+                Explore our collection of luxury and performance
+                vehicles, carefully selected for enthusiasts and
+                collectors.
+            </p>
+
+
+            <!-- SPORTS CARS -->
+
+            <article id="sports-cars">
+
+                <h3>Sports Cars</h3>
+
+                <p>
+                    High-performance automobiles created for drivers
+                    who appreciate engineering, speed and precision.
+                </p>
+
+                <h4>Ferrari 296 GTB</h4>
+
+                <img src="images/ferrari-296-gtb.jpg"
+                     alt="Ferrari 296 GTB"
+                     width="600">
+
+                <p>
+                    A remarkable performance vehicle featured in the
+                    Velora Motors collection.
+                </p>
+
+                <ul>
+                    <li>Category: Sports Car</li>
+                    <li>Brand: Ferrari</li>
+                    <li>Model: 296 GTB</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+
+            <!-- SEDANS -->
+
+            <article id="sedans">
+
+                <h3>Sedans</h3>
+
+                <p>
+                    Elegant luxury sedans combining comfort,
+                    craftsmanship and performance.
+                </p>
+
+                <h4>Rolls-Royce Ghost</h4>
+
+                <img src="images/rolls-royce-ghost.jpg"
+                     alt="Rolls-Royce Ghost"
+                     width="600">
+
+                <p>
+                    A luxury sedan presented as part of the Velora
+                    Motors curated collection.
+                </p>
+
+                <ul>
+                    <li>Category: Sedan</li>
+                    <li>Brand: Rolls-Royce</li>
+                    <li>Model: Ghost</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+
+            <!-- SUVS -->
+
+            <article id="suvs">
+
+                <h3>SUVs</h3>
+
+                <p>
+                    Luxury SUVs designed to combine presence,
+                    capability and refined comfort.
+                </p>
+
+                <h4>Bentley Bentayga</h4>
+
+                <img src="images/bentley-bentayga.jpg"
+                     alt="Bentley Bentayga"
+                     width="600">
+
+                <p>
+                    A premium SUV featured in the Velora Motors
+                    collection.
+                </p>
+
+                <ul>
+                    <li>Category: SUV</li>
+                    <li>Brand: Bentley</li>
+                    <li>Model: Bentayga</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+                <h4>Range Rover Autobiography</h4>
+
+                <img src="images/range-rover-autobiography.jpg"
+                     alt="Range Rover Autobiography"
+                     width="600">
+
+                <p>
+                    A luxury SUV selected for the Velora Motors
+                    collection.
+                </p>
+
+                <ul>
+                    <li>Category: SUV</li>
+                    <li>Brand: Range Rover</li>
+                    <li>Model: Autobiography</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+
+            <!-- CONVERTIBLES -->
+
+            <article id="convertibles">
+
+                <h3>Convertibles</h3>
+
+                <p>
+                    Open-top performance and luxury vehicles created
+                    for an immersive driving experience.
+                </p>
+
+                <h4>Aston Martin DB12 Volante</h4>
+
+                <img src="images/aston-martin-db12-volante.jpg"
+                     alt="Aston Martin DB12 Volante"
+                     width="600">
+
+                <p>
+                    An exceptional convertible included in the
+                    Velora Motors collection.
+                </p>
+
+                <ul>
+                    <li>Category: Convertible</li>
+                    <li>Brand: Aston Martin</li>
+                    <li>Model: DB12 Volante</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+
+            <!-- CLASSIC AND VINTAGE -->
+
+            <article id="classic-vintage">
+
+                <h3>Classic & Vintage</h3>
+
+                <p>
+                    Exceptional automobiles representing automotive
+                    heritage and timeless design.
+                </p>
+
+                <h4>Restored Jaguar E-Type</h4>
+
+                <img src="images/jaguar-e-type.jpg"
+                     alt="Restored Jaguar E-Type"
+                     width="600">
+
+                <p>
+                    A restored classic automobile featured in the
+                    Velora Motors collection.
+                </p>
+
+                <ul>
+                    <li>Category: Classic & Vintage</li>
+                    <li>Brand: Jaguar</li>
+                    <li>Model: E-Type</li>
+                    <li>Condition: Restored</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+
+            <!-- ADDITIONAL SPORTS CAR -->
+
+            <article>
+
+                <h3>Lamborghini Huracan</h3>
+
+                <img src="images/lamborghini-huracan.jpg"
+                     alt="Lamborghini Huracan"
+                     width="600">
+
+                <p>
+                    A performance vehicle included in the Velora
+                    Motors collection.
+                </p>
+
+                <ul>
+                    <li>Category: Sports Car</li>
+                    <li>Brand: Lamborghini</li>
+                    <li>Model: Huracan</li>
+                    <li>Availability: Enquire for details</li>
+                </ul>
+
+                <p>
+                    <a href="#contact">Request a Private Viewing</a>
+                </p>
+
+            </article>
+
+            <hr>
+
+        </section>
+
+
+        <!-- ****************************************************************************
+             ABOUT
+             **************************************************************************** -->
+
+        <section id="about">
+
+            <h2>About Velora Motors</h2>
+
+            <p>
+                Velora Motors is a private luxury and performance
+                car dealership focused on connecting discerning
+                collectors and enthusiasts with exceptional
+                automobiles.
+            </p>
+
+            <h3>Our Mission</h3>
+
+            <p>
+                To connect discerning collectors and enthusiasts
+                with the world's finest luxury and performance
+                vehicles through a curated, trustworthy and
+                immersive digital showroom.
+            </p>
+
+            <h3>Our Vision</h3>
+
+            <p>
+                A future where every visitor can explore,
+                understand and fall in love with exceptional
+                automobiles before ever stepping into a showroom.
+            </p>
+
+            <h3>Who We Serve</h3>
+
+            <ul>
+                <li>Luxury car collectors</li>
+                <li>Automotive enthusiasts</li>
+                <li>First-time luxury buyers</li>
+                <li>Automotive researchers</li>
+            </ul>
+
+            <hr>
+
+        </section>
+
+
+        <!-- *********************************************************************
+             BRAND HERITAGE
+             ********************************************************************* -->
+
+        <section id="heritage">
+
+            <h2>Brand Heritage</h2>
+
+            <p>
+                Velora Motors celebrates the heritage of the
+                prestigious marques represented within its
+                collection.
+            </p>
+
+            <h3>Ferrari</h3>
+
+            <p>
+                Explore Ferrari vehicles within our curated
+                performance collection.
+            </p>
+
+            <h3>Rolls-Royce</h3>
+
+            <p>
+                Discover the luxury and heritage represented by
+                Rolls-Royce Motor Cars.
+            </p>
+
+            <h3>Bentley</h3>
+
+            <p>
+                Experience the craftsmanship and luxury associated
+                with Bentley vehicles.
+            </p>
+
+            <h3>Aston Martin</h3>
+
+            <p>
+                Discover Aston Martin performance and design through
+                our curated collection.
+            </p>
+
+            <h3>Lamborghini</h3>
+
+            <p>
+                Explore Lamborghini performance automobiles in our
+                sports car collection.
+            </p>
+
+            <h3>Range Rover</h3>
+
+            <p>
+                Discover luxury SUVs represented by the Range Rover
+                Autobiography.
+            </p>
+
+            <h3>Jaguar</h3>
+
+            <p>
+                Explore automotive heritage through the restored
+                Jaguar E-Type.
+            </p>
+
+            <hr>
+
+        </section>
+
+
+        <!-- ****************************************************************************
+             OWNERSHIP & FINANCING
+             ****************************************************************************-->
+
+        <section id="ownership">
+
+            <h2>Ownership & Financing</h2>
+
+            <p>
+                Velora Motors provides an overview of services
+                designed to support prospective owners throughout
+                their luxury vehicle journey.
+            </p>
+
+            <h3>Financing</h3>
+
+            <p>
+                Speak to our team about available financing options
+                for your selected vehicle.
+            </p>
+
+            <h3>Trade-In</h3>
+
+            <p>
+                Enquire about trading in your current vehicle when
+                acquiring a vehicle from our collection.
+            </p>
+
+            <h3>Concierge Ownership Services</h3>
+
+            <p>
+                Our concierge approach is designed to provide
+                personalized support to luxury vehicle owners.
+            </p>
+
+            <p>
+                <a href="#contact">Enquire About Ownership</a>
+            </p>
+
+            <hr>
+
+        </section>
+
+
+        <!-- **********************************************************************************
+             WHY VELORA
+             ********************************************************************************** -->
+
+        <section id="experience">
+
+            <h2>The Velora Experience</h2>
+
+            <h3>Curated Collection</h3>
+
+            <p>
+                Every vehicle is presented as part of a curated
+                collection of luxury and performance automobiles.
+            </p>
+
+            <h3>Trusted Information</h3>
+
+            <p>
+                Vehicle information is presented to help prospective
+                buyers understand each automobile before arranging
+                a viewing.
+            </p>
+
+            <h3>Private Viewings</h3>
+
+            <p>
+                Prospective buyers can enquire about arranging
+                private vehicle viewings.
+            </p>
+
+            <h3>Automotive Storytelling</h3>
+
+            <p>
+                Velora Motors combines vehicle photography and
+                storytelling to create an immersive digital
+                showroom experience.
+            </p>
+
+            <hr>
+
+        </section>
+
+
+        <!-- ********************************************************************************************
+             CONTACT
+             ********************************************************************************************-->
+
+        <section id="contact">
+
+            <h2>Contact Velora Motors</h2>
+
+            <p>
+                Interested in a vehicle from our collection?
+                Contact us to make an enquiry or request a private
+                viewing.
+            </p>
+
+            <form action="#" method="post">
+
+                <fieldset>
+
+                    <legend>Private Viewing / General Enquiry</legend>
+
+                    <p>
+                        <label for="name">Full Name:</label><br>
+                        <input type="text"
+                               id="name"
+                               name="name"
+                               required>
+                    </p>
+
+                    <p>
+                        <label for="email">Email Address:</label><br>
+                        <input type="email"
+                               id="email"
+                               name="email"
+                               required>
+                    </p>
+
+                    <p>
+                        <label for="phone">Phone Number:</label><br>
+                        <input type="tel"
+                               id="phone"
+                               name="phone">
+                    </p>
+
+                    <p>
+                        <label for="vehicle">Vehicle of Interest:</label><br>
+
+                        <select id="vehicle" name="vehicle">
+
+                            <option value="">
+                                Select a vehicle
+                            </option>
+
+                            <option value="ferrari-296-gtb">
+                                Ferrari 296 GTB
+                            </option>
+
+                            <option value="rolls-royce-ghost">
+                                Rolls-Royce Ghost
+                            </option>
+
+                            <option value="bentley-bentayga">
+                                Bentley Bentayga
+                            </option>
+
+                            <option value="range-rover-autobiography">
+                                Range Rover Autobiography
+                            </option>
+
+                            <option value="aston-martin-db12-volante">
+                                Aston Martin DB12 Volante
+                            </option>
+
+                            <option value="lamborghini-huracan">
+                                Lamborghini Huracan
+                            </option>
+
+                            <option value="jaguar-e-type">
+                                Restored Jaguar E-Type
+                            </option>
+
+                        </select>
+
+                    </p>
+
+                    <p>
+                        <label for="enquiry-type">
+                            Enquiry Type:
+                        </label><br>
+
+                        <select id="enquiry-type"
+                                name="enquiry-type">
+
+                            <option value="private-viewing">
+                                Private Viewing
+                            </option>
+
+                            <option value="vehicle-enquiry">
+                                Vehicle Enquiry
+                            </option>
+
+                            <option value="financing">
+                                Financing
+                            </option>
+
+                            <option value="trade-in">
+                                Trade-In
+                            </option>
+
+                            <option value="concierge">
+                                Concierge Services
+                            </option>
+
+                            <option value="collaboration">
+                                Collaboration
+                            </option>
+
+                        </select>
+
+                    </p>
+
+                    <p>
+                        <label for="message">Message:</label><br>
+
+                        <textarea id="message"
+                                  name="message"
+                                  rows="8"
+                                  cols="50"
+                                  placeholder="Tell us how we can assist you..."></textarea>
+
+                    </p>
+
+                    <p>
+                        <button type="submit">
+                            Submit Enquiry
+                        </button>
+
+                        <button type="reset">
+                            Clear Form
+                        </button>
+                    </p>
+
+                </fieldset>
+
+            </form>
+
+            <hr>
+
+        </section>
+
+    </main>
+
+
+    <!-- =====================================================
+         FOOTER
+         ===================================================== -->
+
+    <footer>
+
+        <h2>VELORA MOTORS</h2>
+
+        <p>
+            <strong>Engineering Excellence, Delivered</strong>
+        </p>
+
+        <p>
+            Luxury & Performance Car Dealership
+        </p>
+
+        <nav aria-label="Footer Navigation">
+
+            <a href="#home">Home</a> |
+            <a href="#showroom">Showroom</a> |
+            <a href="#about">About</a> |
+            <a href="#heritage">Brand Heritage</a> |
+            <a href="#ownership">Ownership & Financing</a> |
+            <a href="#contact">Contact</a>
+
+        </nav>
+
+        <p>
+            &copy; 2026 Velora Motors. All Rights Reserved.
+        </p>
+
+    </footer>
+
+</body>
+
+</html>
+```
